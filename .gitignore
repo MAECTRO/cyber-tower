@@ -1,0 +1,25 @@
+# Release & build archives
+*.zip
+
+# Marketing & promo media
+*.mp4
+*.webm
+screenshots/
+localized_assets/
+ИКОНКИ_ДЛЯ_ВК/
+cyber_tower_cover_*
+cyber_tower_icon_*
+VK_PLAY_GAME_INFO.txt
+
+# Standalone duplicate HTML clones
+cyber_tower_game.html
+index_standalone.html
+
+# Tests & QA
+test_*.py
+
+# System & logs
+*.log
+__pycache__/
+.DS_Store
+Thumbs.db
